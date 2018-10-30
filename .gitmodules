@@ -1,0 +1,6 @@
+[submodule "exoplanet-explore"]
+	path = exoplanet-explore
+	url = https://github.com/udacity/exoplanet-explorer
+[submodule "exoplant-explorer"]
+	path = exoplant-explorer
+	url = https://github.com/parmeet1402/exoplanet-explorer
